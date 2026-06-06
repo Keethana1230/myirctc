@@ -1,18 +1,23 @@
 <%@ page language="java" %>
 <html>
 <body>
-<h2>MyIRCTC Booking</h2>
-<form action="book" method="post">
-    Name: <input type="text" name="name"><br><br>
-    From: <input type="text" name="from"><br><br>
-    To: <input type="text" name="to"><br><br>
-    Date: <input type="date" name="date"><br><br>
-    Class: <select name="class">
-        <option>SL</option>
-        <option>3A</option>
-        <option>2A</option>
-    </select><br><br>
-    <input type="submit" value="Book">
+
+<h2>Zepto Order</h2>
+
+<form action="order" method="post">
+
+    Name:
+    <input type="text" name="name"><br><br>
+
+    Product:
+    <input type="text" name="product"><br><br>
+
+    Quantity:
+    <input type="number" name="quantity"><br><br>
+
+    <input type="submit" value="Place Order">
+
 </form>
+
 </body>
 </html>
