@@ -42,12 +42,10 @@
     Product Category:
     <input type="text" name="category"><br><br>
 
-    Special Instructions:
-    <input type="text" name="instructions"><br><br>
-
     <input type="submit" value="Place Order">
 
 </form>
 
 </body>
 </html>
+
