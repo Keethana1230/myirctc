@@ -19,10 +19,7 @@
     <input type="number" name="quantity"><br><br>
 
     Address:
-    <input type="text" name="address"><br><br>
-
-    Email:
-    <input type="email" name="email"><br><br>
+    <input type="text" name="address"><br><br
 
     City:
     <input type="text" name="city"><br><br>
