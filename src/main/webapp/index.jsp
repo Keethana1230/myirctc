@@ -33,6 +33,5 @@ Payment: <select name="payment" required>
 </select><br>
 Coupon: <input name="coupon"><br>
 Instructions: <textarea name="instructions"></textarea><br>
-<input type="submit" value="Place Order">
 </form>
 </body></html>
