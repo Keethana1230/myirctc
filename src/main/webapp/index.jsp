@@ -25,12 +25,5 @@ Delivery Slot: <select name="slot" required>
 <option>4PM - 6PM</option>
 <option>6PM - 8PM</option>
 </select><br>
-Payment: <select name="payment" required>
-<option value="">--Select--</option>
-<option>COD</option>
-<option>UPI</option>
-<option>Card</option>
-</select><br>
-Coupon: <input name="coupon"><br>
 </form>
 </body></html>
