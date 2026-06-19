@@ -20,7 +20,7 @@ Pincode: <input name="pincode" maxlength="6" required><br>
 Landmark: <input name="landmark"><br>
 Delivery Slot: <select name="slot" required>
 <option value="">--Select--</option>
-<option>8AM - 10AM</option>
+<option>8AM - 9AM</option>
 <option>10AM - 12PM</option>
 <option>4PM - 6PM</option>
 <option>6PM - 8PM</option>
