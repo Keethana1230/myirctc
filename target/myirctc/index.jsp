@@ -12,5 +12,18 @@ Category: <select name="category" required>
 <option>Dairy & Bakery</option>
 <option>Snacks & Drinks</option>
 <option>Groceries</option>
+</select><br>
+Quantity: <input type="number" name="quantity" min="1" value="1" required><br>
+Address: <textarea name="address" required></textarea><br>
+City: <input name="city" required><br>
+Pincode: <input name="pincode" maxlength="6" required><br>
+Landmark: <input name="landmark"><br>
+Delivery Slot: <select name="slot" required>
+<option value="">--Select--</option>
+<option>8AM - 9AM</option>
+<option>10AM - 12PM</option>
+<option>4PM - 6PM</option>
+<option>6PM - 8PM</option>
+</select><br>
 </form>
 </body></html>
